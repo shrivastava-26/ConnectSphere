@@ -39,8 +39,7 @@ JavaScript handles the dynamic features, allowing users to interact with the dis
 
 [Check out a live demo of ConnectSphere here: Live Demo](https://connectspheree.netlify.app/)
 
-## 📅 
-Clone the repository:
+## 📅 Clone the repository:
 
       git clone https://github.com/your-username/connectsphere.git
       cd connectsphere
