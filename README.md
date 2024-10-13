@@ -45,4 +45,4 @@ JavaScript handles the dynamic features, allowing users to interact with the dis
       cd connectsphere
       Open index.html in your web browser to run the application locally.
 
-Connect With Me ❤️
+## Connect With Me ❤️
